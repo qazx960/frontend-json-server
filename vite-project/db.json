@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nickname": "dagdag21",
+      "email": "test@test.com",
+      "password": "123",
+      "token": "fhnsdjnfsh13gysafafafsa1gty13g"
+    },
+    {
+      "id": 2,
+      "nickname": "dagdag21",
+      "email": "test2@test.com",
+      "password": "1234",
+      "token": "23r1rt1t1vdabdabdab3t31t31t31"
+    }
+  ]
+}
